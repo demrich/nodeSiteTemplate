@@ -1,0 +1,13 @@
+@import "_config.scss";
+
+header {
+    display: block;
+    width:100%;
+    background: black;
+    color:white;
+
+    .logo {
+        position: absolute;
+        top: 50%; left: 15px;
+    }
+}
